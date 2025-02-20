@@ -1,4 +1,4 @@
-:root {
+/*:root {
     --primary-color: #2c3e50;
     --secondary-color: #3498db;
     --light-color: #ecf0f1;
@@ -227,4 +227,4 @@ main {
 
 [data-theme="dark"] #hero {
     background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('library-bg.jpg');
-}
+}*/
